@@ -1,0 +1,8 @@
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\bin\Debug\netcoreapp3.1\GameFramework.deps.json
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\bin\Debug\netcoreapp3.1\GameFramework.dll
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\bin\Debug\netcoreapp3.1\GameFramework.pdb
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\obj\Debug\netcoreapp3.1\GameFramework.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\obj\Debug\netcoreapp3.1\GameFramework.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\obj\Debug\netcoreapp3.1\GameFramework.AssemblyInfo.cs
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\obj\Debug\netcoreapp3.1\GameFramework.dll
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\GameFramework\obj\Debug\netcoreapp3.1\GameFramework.pdb

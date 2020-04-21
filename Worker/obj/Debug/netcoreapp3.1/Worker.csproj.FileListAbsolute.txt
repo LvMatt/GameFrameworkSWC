@@ -1,0 +1,14 @@
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\GameFramework.dll
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\bin\Debug\netcoreapp3.1\GameFramework.pdb
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+C:\Users\Matus\Desktop\Soft. Construction\GameFramework\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
